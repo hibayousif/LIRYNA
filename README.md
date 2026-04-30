@@ -78,20 +78,11 @@ This project demonstrates:
 - CSS
 - JavaScript
 
-*(Update this if you used a framework like React, Vue, Tailwind, etc.)*
-
----
-
-## 📸 Preview
-
-_Add screenshots or demo link here_
-
----
 
 ## 🎵 Social
 
 TikTok: **@liryan_cafe**
 
----
+
 
 ## © 2026 LIRYNA — For the Aesthetic Soul
